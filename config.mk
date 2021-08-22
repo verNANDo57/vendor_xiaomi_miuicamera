@@ -17,3 +17,6 @@ PRODUCT_PACKAGES += \
     MiuiExtraPhoto \
     miuires
 
+# Shim
+PRODUCT_PACKAGES += \
+    libmedia_jni_shim
