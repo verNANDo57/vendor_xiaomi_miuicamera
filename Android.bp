@@ -25,17 +25,6 @@ android_app_import {
 }
 
 android_app_import {
-        name: "MiuiScanner",
-        owner: "MiuiScanner",
-        apk: "proprietary/system/priv-app/MiuiScanner/MiuiScanner.apk",
-        certificate: "platform",
-        dex_preopt: {
-                enabled: false,
-        },
-        privileged: true,
-}
-
-android_app_import {
         name: "miuires",
         owner: "miuires",
         apk: "proprietary/system/app/miuires/miuires.apk",
