@@ -11,7 +11,7 @@ git clone -b eleven https://github.com/VerNANDo57/vendor_xiaomi_miuicamera vendo
 
 ### Screenshots
 
-![MiuiCamera](https://github.com/verNANDo57/vendor_xiaomi_miuicamera/tree/master/screenshots/1.png)
-![MiuiCamera](https://github.com/verNANDo57/vendor_xiaomi_miuicamera/tree/master/screenshots/2.png)
-![MiuiCamera](https://github.com/verNANDo57/vendor_xiaomi_miuicamera/tree/master/screenshots/3.png)
-![MiuiCamera](https://github.com/verNANDo57/vendor_xiaomi_miuicamera/tree/master/screenshots/4.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/1.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/2.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/3.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/4.png)
