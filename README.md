@@ -11,7 +11,7 @@ git clone -b miatoll_a11 https://github.com/VerNANDo57/vendor_xiaomi_miuicamera 
 
 ### Screenshots
 
-![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/1.png)
-![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/2.png)
-![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/3.png)
-![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/eleven/screenshots/4.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/miatoll_a11/screenshots/1.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/miatoll_a11/screenshots/2.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/miatoll_a11/screenshots/3.png)
+![MiuiCamera](https://raw.githubusercontent.com/verNANDo57/vendor_xiaomi_miuicamera/miatoll_a11/screenshots/4.png)
