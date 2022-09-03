@@ -74,6 +74,8 @@
     <bool name="support_headset">true</bool>
     <!--whether the device supports nvdia wifi display-->
     <bool name="support_nvdia_wifi_display">false</bool>
+    <!-- whether support miplay privacy cast(wifi display)-->
+    <bool name="support_miplay_cast_privacy">true</bool>
     <!--whether the device supports eap sim-->
     <bool name="support_eap_sim">true</bool>
     <!--whether the device supports screen optimize-->
@@ -261,6 +263,8 @@
     <bool name="support_tap_fingerprint_sensor_to_home">false</bool>
     <!-- type of soter finger pay, config by owner of soter -->
     <integer name="type_soter_finger_pay">2</integer>
+    <!-- wheter the device support widevine l1, 1: support, 2: ota_support -->
+    <integer name="support_widevine_l1">2</integer>
     <!-- finger record, config by owner -->
     <integer name="type_mqs_finger_record">3</integer>
     <!--wheater the device supports persist screen color in driver-->
@@ -420,6 +424,8 @@
     <string-array name="support_face_unlock_region_dom">
         <item>CN</item>
     </string-array>
+    <!-- whether support multi face input -->
+    <bool name="support_multi_face_input_global">true</bool>
     <!-- whether support ifaa 2dfa feature -->
     <integer name="ifaa_2dfa_support">0</integer>
     <!-- whether support dc backlight -->
